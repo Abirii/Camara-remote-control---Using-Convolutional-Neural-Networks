@@ -6,7 +6,8 @@ Implemented in Python, OpenCV and Keras.
 
 
 # Demo
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/40145410/69492341-59ad9a00-0eaa-11ea-8807-93de8c77bc40.gif)
 
 
 
-
+Full code: Upload soon
