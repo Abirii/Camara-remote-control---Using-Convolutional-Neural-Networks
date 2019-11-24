@@ -17,4 +17,4 @@ Main menu: Control by the number of fingers that being held up, and back to main
 ![output](https://user-images.githubusercontent.com/40145410/69492386-fa03be80-0eaa-11ea-9da5-c10a2a694e19.gif)
 
 
-###### Full code: Upload soon
+###### Full code: Coming soon
