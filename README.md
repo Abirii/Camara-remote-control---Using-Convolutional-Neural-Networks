@@ -7,9 +7,9 @@ Implemented in Python and Keras.
 
 Main menu: Control by the number of fingers that being held up, and back to main manu with OK sign.
 
-1) Sleep mode: Recognize whether eye is opened or closed.
+1) Sleep mode: Recognize whether eyes are opened or closed.
 2) Backwards and forwards mode: Controlling video speed through hand gestures.
-3) Switch channel mode: Through hand gestures.
+3) Switch channel mode: switch channel through hand gestures.
 4) Volume mode: Control by distance of the hand from the camera. 
 
 # Demo
