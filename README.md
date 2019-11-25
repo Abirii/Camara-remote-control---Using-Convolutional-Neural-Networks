@@ -2,7 +2,7 @@
 
 A remote control that's operated via a camera, using Convolutional Neural Networks.
 The remote control enables channel switching, controlling video speed through hand and fingers movements and detect closed eyes.
-Implemented in Python, OpenCV and Keras.
+Implemented in Python and Keras.
 
 
 Main menu: Control by the number of fingers that being held up, and back to main manu with OK sign.
